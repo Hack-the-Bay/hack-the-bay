@@ -6,6 +6,20 @@ This repo is intended to provide data and starter code for the [Hack the Bay](ht
 ## Overview
 CMC’s data is intended to fill spatial and temporal data gaps that exist in the federal Chesapeake Bay Program’s (CBP) database. Both CMC and CBP measure the health of the watershed through monitoring both chemical water quality indicators and counting the presence of different benthic organisms. For all hackathon challenges, we recommend participants use both CMC and CBP water quality data (with the option of also analyzing benthic data). We have downloaded water quality and benthic datasets here and made them available in this repo. In addition to these datasets, there are links to more suggested datasets for each challenge below. 
 
+*Note on the data: For CBP, only data after 2005 is included (for both water quality and benthic data). CMC data goes back to 1990. For more historic CBP data, you can download additional [water quality data](http://data.chesapeakebay.net/WaterQuality) and [nontidal benthic sample data](http://data.chesapeakebay.net/LivingResources) directly from CBP. CMC data was downloaded from the [Chesapeake Data Explorer](https://cmc.vims.edu/#/home/query/). 
+
+## Contents
+  1. Data to Download
+    a. Water Quality Data
+    b. Benthic Sample Data
+  2. Recommended Datasets
+  3. CMC & CBP Data Dictionaries
+  4. Understanding the Data
+  5. Code for Generating Final Datasets
+    a. Joining CMC & CBP Water Data
+    b. Joining CMC & CBP Benthic Data
+    c. Getting Geospatial Points
+
 ## Recommended Datasets
 X = primary dataset (strongly recommended)
 
@@ -60,6 +74,7 @@ If you select a challenge that recommends picking a specific part of the watersh
 -	County / Municipality: Using administrative boundaries makes sense when comparing environmental data to social and demographic data (ex., for Challenge 4).
   
 ## Code
+This repo contains notebooks with the code used to join the raw exported datasets from CMC and CBP, as well as add HUC12 and FIPS codes.
 
 ## Questions?
 If you have any questions about the data or information in this repo, contact Kate Dowdy (dowdy_katherine@bah.com). More resources for the Hack the Bay hackathon can be found [here](https://hack-the-bay.devpost.com/details/resources). 
