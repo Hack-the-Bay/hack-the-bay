@@ -1,5 +1,5 @@
 # Hack the Bay: Data
-This repo is intended to provide primary datasets and starter code for the Hack the Bay hackathon. 
+This repo is intended to provide data and starter code for the [Hack the Bay](https://hack-the-bay.devpost.com) hackathon (Aug. 3-Sep. 14, 2020). 
 
 ## Overview
 CMC’s data is intended to fill spatial and temporal data gaps that exist in the federal Chesapeake Bay Program’s (CBP) database. Both CMC and CBP measure the health of the watershed through monitoring both chemical water quality indicators and counting the presence of different benthic organisms. For all hackathon challenges, we recommend participants use both CMC and CBP water quality data (with the option of also analyzing benthic data). We have downloaded water quality and benthic datasets here and made them available in this repo. In addition to these datasets, there are links to more suggested datasets for each challenge below. 
@@ -60,4 +60,4 @@ If you select a challenge that recommends picking a specific part of the watersh
 ## Code
 
 ## Questions?
-If you have any questions about the data or information in this repo, contact Kate Dowdy (dowdy_katherine@bah.com).
+If you have any questions about the data or information in this repo, contact Kate Dowdy (dowdy_katherine@bah.com). More resources for the Hack the Bay hackathon can be found [here](https://hack-the-bay.devpost.com/details/resources). 
