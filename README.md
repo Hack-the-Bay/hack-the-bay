@@ -1,4 +1,4 @@
-# UNDER CONTRUCTION
+# UNDER CONSTRUCTION
 
 # Hack the Bay: Data
 This repo is intended to provide data and starter code for the [Hack the Bay](https://hack-the-bay.devpost.com) hackathon (Aug. 3-Sep. 14, 2020). 
@@ -10,15 +10,15 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
 
 ## Contents
   1. Data to Download
-    a. Water Quality Data
-    b. Benthic Sample Data
+      - Water Quality Data
+      - Benthic Sample Data
   2. Recommended Datasets
   3. CMC & CBP Data Dictionaries
   4. Understanding the Data
   5. Code for Generating Final Datasets
-    a. Joining CMC & CBP Water Data
-    b. Joining CMC & CBP Benthic Data
-    c. Getting Geospatial Points
+      - Joining CMC & CBP Water Data
+      - Joining CMC & CBP Benthic Data
+      - Getting Geospatial Points
 
 ## Recommended Datasets
 X = primary dataset (strongly recommended)
