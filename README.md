@@ -9,7 +9,7 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
 *Note on the data: For CBP, only data after 2005 is included (for both water quality and benthic data). CMC data goes back to 1992. For more historic CBP data, you can download additional [water quality data](http://data.chesapeakebay.net/WaterQuality) and [nontidal benthic sample data](http://data.chesapeakebay.net/LivingResources) directly from CBP. CMC data was downloaded from the [Chesapeake Data Explorer](https://cmc.vims.edu/#/home/query/). 
 
 ## Contents
-  1. Data to Download
+  1. Data to Download [Google Drive]
       - [Water Quality Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
       - [Benthic Sample Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
   2. [Recommended Datasets](#recommended-datasets)
@@ -50,11 +50,13 @@ o = optional (suggested)
 
 ### Geospatial Density
 The Chesapeake Bay watershed spans Virginia, Maryland, Delaware, West Virginia, Pennsylvania, New York and Washington, DC. CMC’s data has greater coverage in some states over others, and is largely dependent on the activity level and participation of monitoring groups in those states.  As of July 2020, CMC’s water quality database included samples from over 1,600 unique collection points (compared to 887 unique collection points in CBP’s database from 2005-2020). 
-[Water Quality Datapoints][https://github.com/Hack-the-Bay/hack-the-bay/blob/master/images/water_geo.png]
-[Benthic Datapoints][https://github.com/Hack-the-Bay/hack-the-bay/blob/master/images/benthic_geo.png]
+
+![Geospatial Data](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/images/HTB_geo.png)
 
 ### Temporal Density
 CMC’s water quality data goes back as far as 1992, with the majority of their data collected after 2017. 
+
+![Temporal Data](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/images/HTB_time.png)
 
 ### What is a Data Gap?
 Participants exploring CMC’s data for the first time will notice that data collection is highly variable across time, space, and water quality parameter. Data sparsity is a reality of many environmental datasets. When planning your analysis, each challenge recommends focusing on either a geographic area or one of a few parameters that can be compared across space/time.   
