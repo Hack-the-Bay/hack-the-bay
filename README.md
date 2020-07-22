@@ -27,7 +27,7 @@ o = optional (suggested)
 | Source | Dataset | Challenge 1 | Challenge 2 | Challenge 3 | Challenge 4 |
 |--------|---------|-------------|-------------|-------------|-------------|
 | CBP / CMC | [Water Quality](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | X | X | X | X |
-| CBP / CMC | [Benthic](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | o | o | o | o |
+| CBP / CMC | [Benthic](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | X | X | o | o |
 | USGS | [Stream Flow](https://waterdata.usgs.gov/nwis/rt) | o | o | o | |
 | USGS | [Pollution Yields and Loads](https://cbrim.er.usgs.gov/trends_query.html?sorts%5Bstaid%5D=1&sorts%5Bpcode%5D=1&sorts%5Bstart_Year%5D=1&sorts%5Bend_Year%5D=1&sorts%5Bnyears%5D=1&sorts%5Bperiod%5D=1&sorts%5Blowf%5D=1&sorts%5Bestf%5D=1&sorts%5Bupf%5D=1&sorts%5Bfnt_Pct%5D=1&sorts%5BtrendDir%5D=1&sorts%5Blikelihood%5D=1) | o | | o | |
 | USGS | [Geology](https://ngmdb.usgs.gov/Prodesc/proddesc_9215.htm) | o | | o | |
@@ -46,7 +46,7 @@ o = optional (suggested)
   - [CMC Data Dictionary](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2020/07/Data-Dictionary_June-2020.pdf)
   - [CMC Water Quality Data Rubric](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2018/11/CMC-Water-Quality-Data-Rubric_6.18.2020.pdf) - this document explains the three tiers of data in CMC's database
   - [CBP Data Dictionary](https://www.chesapeakebay.net/documents/3676/cbwqdb2004_rb.pdf)
-  - [Mapping of CMC Parameters to CBP Parameters](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/CBP_water_dictionary.csv)
+  - [Mapping of CMC Parameters to CBP Parameters](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/CBP_water_dictionary_final.csv)
   
 ## Understanding the Data
 
