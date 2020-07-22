@@ -16,9 +16,6 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
   3. [Data Dictionaries](#data-dictionaries)
   4. [Understanding the Data](#understanding-the-data)
   5. [Code for Generating Final Datasets](https://github.com/Hack-the-Bay/hack-the-bay/tree/master/Code)
-      - Joining CMC & CBP Water Data
-      - Joining CMC & CBP Benthic Data
-      - Getting Geospatial Points
 
 ## Recommended Datasets
 X = primary dataset (strongly recommended)
@@ -53,6 +50,8 @@ o = optional (suggested)
 
 ### Geospatial Density
 The Chesapeake Bay watershed spans Virginia, Maryland, Delaware, West Virginia, Pennsylvania, New York and Washington, DC. CMC’s data has greater coverage in some states over others, and is largely dependent on the activity level and participation of monitoring groups in those states.  As of July 2020, CMC’s water quality database included samples from over 1,600 unique collection points (compared to 887 unique collection points in CBP’s database from 2005-2020). 
+[Water Quality Datapoints][https://github.com/Hack-the-Bay/hack-the-bay/blob/master/images/water_geo.png]
+[Benthic Datapoints][https://github.com/Hack-the-Bay/hack-the-bay/blob/master/images/benthic_geo.png]
 
 ### Temporal Density
 CMC’s water quality data goes back as far as 1992, with the majority of their data collected after 2017. 
