@@ -13,9 +13,9 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
       - [Water Quality Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
       - [Benthic Sample Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
   2. [Recommended Datasets](#recommended-datasets)
-  3. Data Dictionaries
-  4. Understanding the Data
-  5. Code for Generating Final Datasets
+  3. [Data Dictionaries](#data-dictionaries)
+  4. [Understanding the Data](#understanding-the-data)
+  5. [Code for Generating Final Datasets](https://github.com/Hack-the-Bay/hack-the-bay/tree/master/Code)
       - Joining CMC & CBP Water Data
       - Joining CMC & CBP Benthic Data
       - Getting Geospatial Points
