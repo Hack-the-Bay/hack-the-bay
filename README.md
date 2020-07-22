@@ -12,7 +12,7 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
   1. Data to Download
       - [Water Quality Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
       - [Benthic Sample Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
-  2. Recommended Datasets
+  2. [Recommended Datasets](#recommended-datasets)
   3. Data Dictionaries
   4. Understanding the Data
   5. Code for Generating Final Datasets
@@ -43,7 +43,7 @@ o = optional (suggested)
 | US Census | [County Boundary Maps](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-nation-u-s-current-county-and-equivalent-national-shapefile) | | | | X |
 | USDA | [HUC12 Boundary Maps](https://nrcs.app.box.com/v/huc/file/532373547877) | X | X | X | o |
 
-## CMC & CBP Data Dictionaries
+## Data Dictionaries
   - [CMC Data Dictionary](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2020/07/Data-Dictionary_June-2020.pdf)
   - [CMC Water Quality Data Rubric](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2018/11/CMC-Water-Quality-Data-Rubric_6.18.2020.pdf) - this document explains the three tiers of data in CMC's database
   - [CBP Data Dictionary](https://www.chesapeakebay.net/documents/3676/cbwqdb2004_rb.pdf)
