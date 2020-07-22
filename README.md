@@ -47,12 +47,12 @@ o = optional (suggested)
   - [CMC Data Dictionary](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2020/07/Data-Dictionary_June-2020.pdf)
   - [CMC Water Quality Data Rubric](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2018/11/CMC-Water-Quality-Data-Rubric_6.18.2020.pdf) - this document explains the three tiers of data in CMC's database
   - [CBP Data Dictionary](https://www.chesapeakebay.net/documents/3676/cbwqdb2004_rb.pdf)
-  - Mapping of CMC Parameters to CBP Parameters
+  - [Mapping of CMC Parameters to CBP Parameters](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/CBP_water_dictionary.csv)
   
 ## Understanding the Data
 
 ### Geospatial Density
-The Chesapeake Bay watershed spans Virginia, Maryland, Delaware, West Virginia, Pennsylvania, New York and Washington, DC. CMC’s data has greater coverage in some states over others, and is largely dependent on the activity level and participation of monitoring groups in those states.  As of June 2020, CMC’s water quality database included samples from over 1,600 unique collection points (compared to 466 unique collection points in CBP’s database). 
+The Chesapeake Bay watershed spans Virginia, Maryland, Delaware, West Virginia, Pennsylvania, New York and Washington, DC. CMC’s data has greater coverage in some states over others, and is largely dependent on the activity level and participation of monitoring groups in those states.  As of July 2020, CMC’s water quality database included samples from over 1,600 unique collection points (compared to 887 unique collection points in CBP’s database from 2005-2020). 
 
 ### Temporal Density
 CMC’s water quality data goes back as far as 1992, with the majority of their data collected after 2017. 
