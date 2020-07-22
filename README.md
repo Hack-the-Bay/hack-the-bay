@@ -1,7 +1,7 @@
 # UNDER CONSTRUCTION
 
 # Hack the Bay: Data
-This repo is intended to provide data and starter code for the [Hack the Bay](https://hack-the-bay.devpost.com) hackathon (Aug. 3-Sep. 14, 2020). 
+This repo is intended to provide data and starter code for the [Hack the Bay](https://hack-the-bay.devpost.com) hackathon (Aug. 3-Sep. 14, 2020). *[DOWNLOAD CMC & CBP DATA HERE](https://drive.google.com/drive/folders/19HYUC5SLj7EV3Ui4fMhHBk_hnxcSY-PJ?usp=sharing)*
 
 ## Overview
 CMC’s data is intended to fill spatial and temporal data gaps that exist in the federal Chesapeake Bay Program’s (CBP) database. Both CMC and CBP measure the health of the watershed through monitoring both chemical water quality indicators and counting the presence of different benthic organisms. For all hackathon challenges, we recommend participants use both CMC and CBP water quality data (with the option of also analyzing benthic data). We have downloaded water quality and benthic datasets here and made them available in this repo. In addition to these datasets, there are links to more suggested datasets for each challenge below. 
@@ -10,8 +10,8 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
 
 ## Contents
   1. Data to Download [Google Drive]
-      - [Water Quality Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
-      - [Benthic Sample Data](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing)
+      - [Water Quality Data](https://drive.google.com/file/d/12uoFlcn8pgeuxD2-seFak36KTvrFPKCt/view?usp=sharing)
+      - [Benthic Sample Data](https://drive.google.com/file/d/1-N1YZv0mIjZ080ro95PT9pjlrET0Vm-P/view?usp=sharing)
   2. [Recommended Datasets](#recommended-datasets)
   3. [Data Dictionaries](#data-dictionaries)
   4. [Understanding the Data](#understanding-the-data)
