@@ -1,0 +1,28 @@
+Id,Code,Description,Order,ApplicationText
+1,A,Laboratory Accident,9,Laboratory Accident
+2,V,Sample results rejected due to QC criteria,4,Results Rej - QC crit
+4,B,Chemical Matrix Interference,11,Chemical Matrix Interference
+5,BB,Torn Filter Pad,12,Torn Filter Pad
+6,C,Instrument Failure,1,Instrument Failure
+7,D,Insufficient Sample,13,Insufficient Sample
+8,DD,Sample Size Not Reported,14,Sample Size Not Reported (Assumed)
+9,E,Sample Received After Holding Time,7,Sample Received After Holding Time
+10,FF,"Poor Replication Between Pads, Mean reported",15,Mean Reported
+11,GG,Sample Analyzed After Holding Time,8,Sample Analyzed After Holding Time
+12,I,Suspect Value Has Been Verified Correct,16,Suspect Value Has Been Verified Correct
+13,J,Incorrect Sample Fraction For Analysis,17,Incorrect Sample Fraction For Analysis
+14,JJ,Volume Filtered Not Recorded (assumed),18,Volume Filtered Not Recorded (Assumed)
+20,NN,Particulates Found in Filtered Sample,19,Particulates Found In Filtered Sample
+21,P,Provisional Data,10,Provisional Data
+22,QQ,Part Exceeds Whole Value Yet Difference Is Within Analytical Precision,20,Part > whole val; diff w/in prec
+25,SS,"Sample Rejected, High Suspended Sediment Concentration",21,Sample rejected; High Sus Sed Conc
+28,VV,Station Was Not Sampled Due To Bad Field Conditions,22,Station not sampled due to bad conditions
+30,X,Sample Not Preserved Properly,6,Sample Not Preserved Properly
+31,AA,Field Accident,3,Field Accident
+32,F,Post-Calibration failure likely due to equipment damage after sampling; data appear normal,2,Post-Calibration Failure
+34,R,Sample Contaminated,5,Sample Contaminated
+38,NQ,PART EXCEEDS WHOLE VALUE AND DIFFERENCE IS NOT WITHIN ANALYTICAL PRECISION,23,Part > whole val; diff > prec
+39,IQ,CANNOT DETERMINE IF PART EXCEEDS WHOLE VALUE AND WHETHER OR NOT DIFFERENCE IS WITHIN ANALYTICAL PRECISION,24,Cannot determine if part exceeds whole
+40,NV,NEGATIVE CALCULATED VALUE IS VALID GIVEN PRECISION OF MEASURED WATER QUALITY PARAMETERS; ACTUAL CALCULATED CONCENTRATION LIKELY IS LOW; POSSIBLY LESS THAN PQLS OF MEASURED WATER QUALITY PARAMETERS,25,Valid neg val
+41,RR,No Sample Received,0,No Sample Received
+42,Q,ANALYTE PRESENT; REPORTED VALUE IS ESTIMATED; CONC IS BELOW THE RANGE FORQUANTITATION,0,Analyte present; estimated reported value; Concentration is below range

@@ -1,0 +1,4 @@
+Code,Description
+<,Less than the lower method detection limit (MDL)
+>,Greater than the upper method detection limit (MDL)
+E,Estimated Value
