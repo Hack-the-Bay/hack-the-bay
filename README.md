@@ -44,6 +44,8 @@ o = optional (suggested)
 
 ## Data Dictionaries
   - [CMC Data Dictionary](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2020/07/Data-Dictionary_June-2020.pdf)
+    - [Problem Codes](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/problemCodes.csv)
+    - [Qualifier Codes]((https://github.com/Hack-the-Bay/hack-the-bay/blob/master/qualifierCodes.csv)
   - [CMC Water Quality Data Rubric](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2018/11/CMC-Water-Quality-Data-Rubric_6.18.2020.pdf) - this document explains the three tiers of data in CMC's database
   - [CBP Data Dictionary](https://www.chesapeakebay.net/documents/3676/cbwqdb2004_rb.pdf)
   - [Mapping of CMC Parameters to CBP Parameters](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/CBP_water_dictionary_final.csv)
