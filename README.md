@@ -29,14 +29,21 @@ o = optional (suggested)
 | CBP / CMC | [Water Quality](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | X | X | X | X |
 | CBP / CMC | [Benthic](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | X | X | o | o |
 | USGS | [Stream Flow](https://waterdata.usgs.gov/nwis/rt) | o | o | o | |
+| Water Quality Portal | [Water Quality Portal]([https://www.waterqualitydata.us/)| o | | o | |
 | USGS | [Pollution Yields and Loads](https://cbrim.er.usgs.gov/trends_query.html?sorts%5Bstaid%5D=1&sorts%5Bpcode%5D=1&sorts%5Bstart_Year%5D=1&sorts%5Bend_Year%5D=1&sorts%5Bnyears%5D=1&sorts%5Bperiod%5D=1&sorts%5Blowf%5D=1&sorts%5Bestf%5D=1&sorts%5Bupf%5D=1&sorts%5Bfnt_Pct%5D=1&sorts%5BtrendDir%5D=1&sorts%5Blikelihood%5D=1) | o | | o | |
 | USGS | [Geology](https://ngmdb.usgs.gov/Prodesc/proddesc_9215.htm) | o | | o | |
 | NOAA | [Weather](https://www.ncdc.noaa.gov/cdo-web/) | | | o | |
-| CBP | [Nutrient Point Source Database](https://www.chesapeakebay.net/what/downloads/bay_program_nutrient_point_source_database) | o | | o | |
-| CBP | [Land Cover](https://www.chesapeakebay.net/what/data) (Under GIS Datasets)| o | o | o | |
+| CBP | [CAST - Nutrient Point Source/Best Management Practices Database](https://cast.chesapeakebay.net/) | o | | o | |
+| Chesapeake Conservancy | [Land Cover](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-cover-data-project/)| o | o | o | |
+| USGS | [Land Use Over Time](https://www.usgs.gov/centers/eros/science/national-land-cover-database)| x | | x | | 
+| CBP | [Watershed Data Dashboard](https://gis.chesapeakebay.net/wip/dashboard)| o | | o | |
+| CBP | [Chesapeake Bay Open GIS Data](http://data-chesbay.opendata.arcgis.com/)| o | | o | |
 | CBP | [Public Access Data](https://www.chesapeakebay.net/what/data) (Under GIS Datasets)| | | | o |
-| Chesapeake Conservancy | [Land Use](https://chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-use-data-project/) | X | | X | |
-| EPA | [Environmental Justice (EJ) Screen](https://ejscreen.epa.gov/mapper/) | | | | o |
+| EPA | [How's My Water?](https://mywaterway.epa.gov/)| o | | | o |
+| EPA | [EnviroAtlas](https://www.epa.gov/enviroatlas)| o | | o | o |
+| Chesapeake Conservancy | [Land Use](https://chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-use-data-project/) | o | | o | |
+| CBP | [Healthy Watersheds Assessment (see references at end)](https://www.chesapeakebay.net/channel_files/26540/chesapeake_healthy_watersheds_assessment_report.pdf)| o | | o | o |
+| EPA | [Chesapeake Bay Environmental Justice (EJ) Screen](https://gis.chesapeakebay.net/cbpejscreen/) | | | | o |
 | CDC | [Social Vulnerability Index](https://svi.cdc.gov/data-and-tools-download.html) | | | | o |
 | US Census | [Demographic / Economic Data](https://www.census.gov/data.html) | | | | o |
 | US Census | [County Boundary Maps](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-nation-u-s-current-county-and-equivalent-national-shapefile) | | | | X |
@@ -71,7 +78,7 @@ To tell a story across space, we need data that effectively covers a region with
 
 To tell a story across time, we need data collected seasonally and annually so that change over time can be evaluated. Trends in time tend to require at least 4 years of data while time trends necessitating 10 or more years of data are very valuable. 
   - CMC is most interested in locations that have collected data in the last 5 years. (Locations with robust historic data that have not collected new data in the last five years would be considered a gap.)
-  - The ideal sampling rhythm is 1x per month for water quality and 2x per year for benthic observations.
+  - The ideal sampling cadence is at least 10x per year for water quality and 1x per year, during the same season each year, for benthic samples. 
 
 ### Selecting Locations
 If you select a challenge that recommends picking a specific part of the watershed to focus your analysis on, consider some ways that the watershed could be separated geographically:
