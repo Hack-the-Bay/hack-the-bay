@@ -34,8 +34,8 @@ o = optional (suggested)
 | USGS | [Geology](https://ngmdb.usgs.gov/Prodesc/proddesc_9215.htm) | o | | o | |
 | NOAA | [Weather](https://www.ncdc.noaa.gov/cdo-web/) | | | o | |
 | CBP | [CAST - Nutrient Point Source/Best Management Practices Database](https://cast.chesapeakebay.net/) | o | | o | |
-| Chesapeake Conservancy | [Land Cover](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-cover-data-project/)| o | o | o | |
-| USGS | [Land Use Over Time](https://www.usgs.gov/centers/eros/science/national-land-cover-database)| x | | x | | 
+| Chesapeake Conservancy | [Land Cover](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-cover-data-project/)| o | | o | |
+| USGS | [Land Use Over Time](https://www.usgs.gov/centers/eros/science/national-land-cover-database)| o | | o | | 
 | CBP | [Watershed Data Dashboard](https://gis.chesapeakebay.net/wip/dashboard)| o | | o | |
 | CBP | [Chesapeake Bay Open GIS Data](http://data-chesbay.opendata.arcgis.com/)| o | | o | |
 | CBP | [Public Access Data](https://www.chesapeakebay.net/what/data) (Under GIS Datasets)| | | | o |
