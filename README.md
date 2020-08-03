@@ -10,7 +10,7 @@ CMC’s data is intended to fill spatial and temporal data gaps that exist in th
 
 ## Contents
   1. Data to Download [Google Drive]
-      - [Water Quality Data](https://drive.google.com/file/d/12uoFlcn8pgeuxD2-seFak36KTvrFPKCt/view?usp=sharing)
+      - [Water Quality Data]
       - [Benthic Sample Data](https://drive.google.com/drive/folders/1fq87d3k4pnyhbhu06dFO5XEanAjXCDry?usp=sharing)
   2. [Recommended Datasets](#recommended-datasets)
   3. [Data Dictionaries](#data-dictionaries)
