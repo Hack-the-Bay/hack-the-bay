@@ -54,7 +54,7 @@ o = optional (suggested)
   - [CMC Water Quality Data Rubric](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2018/11/CMC-Water-Quality-Data-Rubric_6.18.2020.pdf) - this document explains the three tiers of data in CMC's database
   - [CBP Data Dictionary](https://www.chesapeakebay.net/documents/3676/cbwqdb2004_rb.pdf)
   - [Mapping of CMC Parameters to CBP Parameters](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/CBP_water_dictionary_final.csv)
-  - [Instructions for Formatting Benthic Data for Chessie BB[(https://github.com/Hack-the-Bay/hack-the-bay/blob/master/ChessieBB_Instructions.xlsx)
+  - [Instructions for Formatting Benthic Data for Chessie BB](https://github.com/Hack-the-Bay/hack-the-bay/blob/master/ChessieBB_Instructions.xlsx)
   - [Link to Chessie BIBI for Processing Benthic Data](https://rstudio-pubs-static.s3.amazonaws.com/462489_8d2734925de3492eb294b64f54a260af.html)
   
 ## Understanding the Data
