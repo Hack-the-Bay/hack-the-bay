@@ -27,7 +27,7 @@ o = optional (suggested)
 | CBP / CMC | [Water Quality](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | X | X | X | X |
 | CBP / CMC | [Benthic](https://drive.google.com/file/d/1M4ELFR6cS32EvxHlRjGNr9TYXN84O2ce/view?usp=sharing) | X | X | o | o |
 | USGS | [Stream Flow](https://waterdata.usgs.gov/nwis/rt) | o | o | o | |
-| Water Quality Portal | [Water Quality Portal]([https://www.waterqualitydata.us/)| o | | o | |
+| Water Quality Portal | [Water Quality Portal](https://www.waterqualitydata.us)| o | | o | |
 | USGS | [Pollution Yields and Loads](https://cbrim.er.usgs.gov/trends_query.html?sorts%5Bstaid%5D=1&sorts%5Bpcode%5D=1&sorts%5Bstart_Year%5D=1&sorts%5Bend_Year%5D=1&sorts%5Bnyears%5D=1&sorts%5Bperiod%5D=1&sorts%5Blowf%5D=1&sorts%5Bestf%5D=1&sorts%5Bupf%5D=1&sorts%5Bfnt_Pct%5D=1&sorts%5BtrendDir%5D=1&sorts%5Blikelihood%5D=1) | o | | o | |
 | USGS | [Geology](https://ngmdb.usgs.gov/Prodesc/proddesc_9215.htm) | o | | o | |
 | NOAA | [Weather](https://www.ncdc.noaa.gov/cdo-web/) | | | o | |
