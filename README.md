@@ -46,7 +46,7 @@ o = optional (suggested)
 | US Census | [Demographic / Economic Data](https://www.census.gov/data.html) | | | | o |
 | US Census | [County Boundary Maps](https://catalog.data.gov/dataset/tiger-line-shapefile-2017-nation-u-s-current-county-and-equivalent-national-shapefile) | | | | X |
 | USDA | [HUC12 Boundary Maps](https://nrcs.app.box.com/v/huc/file/532373547877) | X | X | X | o |
-| Chesapeake Riparian Forest Buffer Network | [Forest Buffers by County](http://chesapeakeforestbuffers.net/http://chesapeakeforestbuffers.net/) | o |  | o |  |
+| Chesapeake Riparian Forest Buffer Network | [Forest Buffers by County](http://chesapeakeforestbuffers.net/) | o |  | o |  |
 
 ## Data Dictionaries
   - [CMC Data Dictionary](https://www.chesapeakemonitoringcoop.org/wp-content/uploads/2020/07/Data-Dictionary_June-2020.pdf)
